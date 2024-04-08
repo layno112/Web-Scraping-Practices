@@ -9,3 +9,6 @@ The data I scraped are:
 
 Then I wrote them to a csv file.
 I'm still a beginner and yet to scrape dynamic content
+
+The selenium_scraper is where I practice web scraping using selenium because contnents of a site could be dynamic.
+My code is still beginner and it still needs improvement. I just want to upload what I've accomplished so far.
